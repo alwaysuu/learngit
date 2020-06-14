@@ -1,0 +1,20 @@
+This file introduces the commonly used git commands.
+
+git init
+git add XX file 
+git commit -m "XX"
+git checkout -- HEAD^
+
+
+git status
+git log
+
+git branch XX
+git branch -b XX
+git checkout XX
+
+git merge XX
+
+git clone git@github.com:alwaysuu/alwaysuu.github.io.git
+
+git push original master
