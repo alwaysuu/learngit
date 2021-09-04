@@ -17,4 +17,7 @@ git merge XX
 
 git clone git@github.com:alwaysuu/alwaysuu.github.io.git
 
-git push original master
+git push original maste
+
+added by chengjun  from hust server 
+r
